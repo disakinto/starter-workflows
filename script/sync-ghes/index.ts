@@ -2,8 +2,9 @@
 import { promises as fs } from "fs";
 import { safeLoad } from "js-yaml";
 import { basename, extname, join } from "path";
-import { exec } from "./exec";
-
+const 
+New
+ = new type(arguments);
 interface WorkflowDesc {
   folder: string;
   id: string;
